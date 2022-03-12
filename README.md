@@ -3,7 +3,7 @@
 **Live Site : [Panda Commerece](https://ncshapla.github.io/panda-commerce/)**
 
 #### Overview:
-This is a static web page for showing few categories of e-commerece product wuth a slider.
+This is a static web page for showing few categories of e-commerece product with a slider.
 
 
 #### Technology and Dependency:
